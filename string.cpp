@@ -3,7 +3,7 @@
 #include "string.h"
 
 using namespace std;
-
+	//komentar
     //konstruktor po podrazbirane - bez parametur
     String::String ()
     {
